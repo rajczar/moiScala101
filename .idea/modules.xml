@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/moiScala101.iml" filepath="$PROJECT_DIR$/.idea/moiScala101.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/moiScala101.iml" filepath="$PROJECT_DIR$/.idea/modules/moiScala101.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/moiScala101-build.iml" filepath="$PROJECT_DIR$/.idea/modules/moiScala101-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/moiscala101_574-build.iml" filepath="$PROJECT_DIR$/.idea/modules/moiscala101_574-build.iml" />
     </modules>
   </component>
 </project>
